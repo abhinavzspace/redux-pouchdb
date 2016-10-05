@@ -1,5 +1,5 @@
 {
-  "name": "redux-pouchdb",
+  "name": "@abhinavzspace/redux-pouchdb",
   "version": "0.1.0",
   "description": "Sync store state to pouchdb",
   "main": "lib/index.js",
